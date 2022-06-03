@@ -1,6 +1,6 @@
 // FCI - Programming 1 - 2022 - Assignment 1
 // Program Name:Number Scrabble Game
-// Last Modification Date: 029-02-2022
+// Last Modification Date: 29-02-2022
 // Author and ID and Group: Aya Ali Hassan & 20210083 & A
 from os import system,name
 list1=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
